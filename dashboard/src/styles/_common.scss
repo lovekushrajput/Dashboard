@@ -1,0 +1,52 @@
+.bg-white {
+  background-color: white;
+}
+// flex
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-space {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+// height $ width
+.width-full {
+  width: 100%;
+}
+.width-40 {
+  width: 40%;
+}
+
+.height-20 {
+  height: 35vh;
+}
+
+// react-router-dom-properperty
+.active {
+  background-color: rgb(232, 236, 239);
+
+  i {
+    color: rgb(48, 63, 158);
+  }
+}
